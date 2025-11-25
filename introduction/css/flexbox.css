@@ -4,6 +4,11 @@
   box-sizing: border-box;
 }
 
+p {
+    color: #f1f1f1;
+    font-family: "Inter", arial;
+}
+
 
 body {
   background: linear-gradient(135deg, #000000, #001a35);
