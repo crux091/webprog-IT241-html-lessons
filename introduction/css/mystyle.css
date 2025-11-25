@@ -9,6 +9,10 @@ p {
     font-family: "Inter", arial;
 }
 
+title{
+  color: #ffffff;
+}
+
 
 body {
   background: linear-gradient(135deg, #000000);
