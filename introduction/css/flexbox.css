@@ -1,7 +1,7 @@
 .container {
   display: flex;
   flex-wrap: wrap;
-  background-color: LightBlue;
+  background-color: #0a1a2b;
   padding: 10px;
   gap: 10px; 
 }
