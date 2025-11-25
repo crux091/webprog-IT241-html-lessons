@@ -11,13 +11,13 @@ p {
 
 
 body {
-  background: linear-gradient(135deg, #000000);
+  background: linear-gradient(135deg, #000000, #001a35);
   padding: 20px;
 }
 
 
 h1 {
-  color: #0a1a2b;
+  color: #000000;
   font-size: 2.2rem;
   font-weight: 700;
   margin-bottom: 15px;
