@@ -133,7 +133,16 @@ Home ◀──▶ Resume ◀──▶ Projects ◀──▶ Contact
 
 ---
 
-## 📝 Credits
+## 📝 Credits & Resources Used
+
+| Resource | Source | License |
+|----------|--------|---------|
+| Template | [Start Bootstrap - Personal v1.0.1](https://startbootstrap.com/theme/personal) | MIT |
+| CSS Framework | [Bootstrap 5.2.3](https://getbootstrap.com/) | MIT |
+| Icons | [Bootstrap Icons 1.8.1](https://icons.getbootstrap.com/) | MIT |
+| Fonts | [Google Fonts - Plus Jakarta Sans](https://fonts.google.com/specimen/Plus+Jakarta+Sans) | Open Font License |
+
+---
 
 **Template:** [Start Bootstrap - Personal](https://startbootstrap.com/theme/personal) | **License:** MIT
 
