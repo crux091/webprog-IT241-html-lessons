@@ -153,3 +153,24 @@ Home ◀──▶ Resume ◀──▶ Projects ◀──▶ Contact
 **Happy Coding! 🚀**
 
 </div>
+
+---
+
+## 🛠️ Local Modifications
+
+This project began from the Start Bootstrap "Personal" template (linked above). I made local customizations in this repository, primarily in `introduction/js/scripts.js` and `introduction/css/styles.css`.
+
+JavaScript features added locally in `introduction/js/scripts.js`:
+
+- Typing animation for the homepage hero text (typewriter effect)
+- Active navigation highlighting (marks current page in the navbar)
+- Scroll-based fade-in animations for cards and sections
+- Back-to-top floating button with smooth scroll
+- Dark / Light theme toggle (preference saved to `localStorage`)
+- Contact form realtime validation and success message handling
+- Skill bar fill animations on the Resume page
+- Smooth scrolling for internal anchor links
+- Navbar scroll shadow / blur effect
+
+These changes were implemented directly in this repository and are not verbatim copies of external docs. The original template files and license are retained; third-party libraries referenced (Bootstrap, Bootstrap Icons, Google Fonts) are listed in the Credits section above.
+
